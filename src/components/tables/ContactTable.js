@@ -41,7 +41,7 @@ const ContactTable = (props) => {
                   </b>
                 </button>
                 <span style={{ display: "inline-block", height: "20px" }}>
-                  <a href="javascript:void(0)">
+                  <a href="#contact">
                     <b>{contact.name}</b>
                   </a>
                   <small id="emailHelp" className="form-text text-muted">
